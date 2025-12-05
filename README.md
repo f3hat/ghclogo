@@ -26,7 +26,7 @@ git clone https://github.com/f3hat/ghclogo.git
 
 Your current directory should look like this:
 
-<img src="" width="280px" />
+<img width="480px" src="https://github.com/user-attachments/assets/2cd41be1-5788-4739-8a8b-820c6df17998" />
 
 ## Option A: Applying patch via `.diff` (from suckless.org) and `.h` (from this repository)
 
